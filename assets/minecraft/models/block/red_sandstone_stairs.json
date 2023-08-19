@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench By Subze",
 	"textures": {
-		"1": "custom/atm_main_detail",
-		"2": "custom/atm_main_top_bottom",
-		"3": "custom/atm_screen",
-		"particle": "custom/atm_screen"
+		"1": "block/atm_main_detail",
+		"2": "block/atm_main_top_bottom",
+		"3": "block/atm_screen",
+		"particle": "block/atm_screen"
 	},
 	"elements": [
 		{
