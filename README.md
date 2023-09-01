@@ -4,7 +4,11 @@ This is the official HC Minetopia resourcepack repository.
 
 Get started by downloading a release from the releases tab or grab the latest test version using the download code or by cloning this repository.
 
-This pack is still in early alpha stages.
+Using github desktop to clone this repository in to your monecraft resourcepack folder is recommended while we are in alpha as there will be frequent changes pushed but not released in a release.
+
+The pack is currently **only for 1.19.4**.
+
+Please note, this pack is still in early alpha stages.
 
 This pack and the textures/models contained in it belong to Team Horizon-Craft | Models and textures made by Subze
 
